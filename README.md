@@ -1,6 +1,11 @@
 Oixde h2o 🦀
 ======================
 Soil moisture monitoring system built with Rust, utilising the [avr-hal](https://github.com/Rahix/avr-hal-template) project. For now it only supports the Arduino Uno board, but the code can easily be adapted for other boards with the help of the [avr-hal examples](https://github.com/Rahix/avr-hal/tree/main/examples).
+
+⚠️ This project is still in draft stage, the end goal is to build an auto-watering system.
+
+![IMG_0125](https://github.com/petkodes/oxide-h2o/assets/32264020/1ee1dfbf-2d8c-436c-a26e-890eddb3cc6e)
+
 ## Prerequisites
 You need to have the following installed on your system:
 ### Rust
