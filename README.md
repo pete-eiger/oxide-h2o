@@ -4,7 +4,7 @@ Soil moisture monitoring system built with Rust, utilising the [avr-hal](https:/
 
 ⚠️ This project is still in draft stage, the end goal is to build an auto-watering system.
 
-![IMG_0125](https://github.com/petkodes/oxide-h2o/assets/32264020/1ee1dfbf-2d8c-436c-a26e-890eddb3cc6e)
+<img width="593" alt="image" src="https://github.com/petkodes/oxide-h2o/assets/32264020/a1e0eb95-ce77-465c-a4bf-9911fc230e08">
 
 ## Prerequisites
 You need to have the following installed on your system:
