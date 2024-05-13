@@ -1,6 +1,6 @@
 Oixde h2o 🦀
 ======================
-Plant watering system built with Rust, utilising the [avr-hal](https://github.com/Rahix/avr-hal-template) project. For now it only supports the Arduino Uno board, but the code can easily be adapted for other boards with the help of the [avr-hal examples](https://github.com/Rahix/avr-hal/tree/main/examples).
+Soil moisture monitoring system built with Rust, utilising the [avr-hal](https://github.com/Rahix/avr-hal-template) project. For now it only supports the Arduino Uno board, but the code can easily be adapted for other boards with the help of the [avr-hal examples](https://github.com/Rahix/avr-hal/tree/main/examples).
 ## Prerequisites
 You need to have the following installed on your system:
 ### Rust
